@@ -24,62 +24,106 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Skills Analysis**:
 
-   - List your current skills and areas of expertise.
+   - My skills and areas of expertise:
+     Computer literate
      Communication
-   - Identify skills you need to develop or improve.
+     Analytical Thinker
+     Problem-Solving
+     Interpersonal skills
+     Collaborative
+   - Skills to develop or improve:
+     Web designer
+     Frontend developer
+     Backend developer
 
 2. **Interests and Values**:
 
-   - Describe your key interests related to your career.
-   - What values are important to you in a work environment?
+   - My key interests related to my career:
+     To see myself competent in designing and writting webpages
+     To be able to offer my services as a subcontractor to a cooperate entity
+     To be able to gain enough knowledge to enable me to teach others
+   - Values that are important to me in a work environment:
+     Respect
+     Good work ethic
+     Kindess
+     Collaboration
+     Safety
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
 
-   - List the industries or roles you have researched.
-   - Note any particular areas that piqued your interest.
+   - List of industries/roles I have researched:
+     Web designer
+     Frontend developer
+     Backend developer
+   - Areas that have piqued my interest:
+     Backend developer
 
 2. **Alignment with Personal Profile**:
 
-   - Reflect on how these industries/roles align with your skills, interests, and values.
+   - A reflection on how these industries/roles align with my skills, interests, and values:
+     I am currently a novice student on the path to fulfilling my goeals of being a software developer. It is going well and I see that what I am doing will yield skills that will help me establish myself in the industry. My interests are perfectly aligned with what I am doing now and with that said, my core values will definitly carry me through the experience of my career in software development.
    - Identify any gaps or areas for further exploration.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
 
-   - List your specific, measurable, achievable, relevant, and time-bound goals.
-   - Explain the rationale behind each goal.
+   - A list of my specific, measurable, achievable, relevant, and time-bound goals:
+     Web designer
+     Frontend developer
+   - Rationale behind each goal:
+     To know how to blend colours proffesionally for a world-class webpage and make designs that are unique and eye-catching
+     To learn how to easily translate my thoughts/vision into a code that the PC can transalte into something meaningful
 
 2. **Long-term Goals** (3-5 years and beyond):
 
-   - Outline your long-term career aspirations.
-   - Describe how these align with your interests and skills.
+   - Outlining my long-term career aspirations:
+     Fully competent Software developer
+   - Describing how these align with my interests and skills:
+     I am studying coding as I text and that proves how they aligned I am
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
 
-   - Detail specific actions or steps needed to achieve each short-term goal.
-   - Include any resources or support required.
+   - Detailing specific actions or steps needed to achieve each short-term goal:
+     Study-hard
+     Research
+     Prioritization
+     Innovation
+     Teams mqnagent
+   - Resources or support required:
+     - Supprot from my caoch
+     - Digital platphomos
+       Networking
+       Coaching
 
 2. **Preparation for Long-term Goals**:
 
-   - Describe the preparations or groundwork necessary for your long-term aspirations.
-   - Consider additional skills, experiences, or qualifications needed.
+   - Describing the preparations or groundwork necessary for your long-term aspirations:
+     I would have to learn most of the languages
+   - Considering additional skills, experiences, or qualifications needed.
+     - For now I have not yet achieved anything;
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
 
-   - Identify potential obstacles or challenges in reaching your goals.
-   - Consider strategies to overcome these challenges.
+   - Identifing potential obstacles or challenges in reaching my goals:
+     Sor far I do not see any because I am till warming to SFD.
+   - Which strategies should I Consider to overcome these challenges:
+     Sor far I do not see any because I am till warming to SFD.
 
 2. **Opportunities for Growth**:
 
-   - Highlight any opportunities you can leverage for career growth.
+   - Highlighting my opportunities that I can leverage for my career growth:
+     Freelance
+     Junior coder
    - Include networking, mentorship, or educational opportunities.
+     CodeSpace
+     Coaches
 
 ### Submission
 
