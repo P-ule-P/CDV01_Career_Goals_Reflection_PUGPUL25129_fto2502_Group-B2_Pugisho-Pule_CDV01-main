@@ -15,8 +15,8 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- \**Name:*Pugisho\*
-- \**Date:*Pule\*
+- \**Name:*Pugisho Pule\*
+- \**Date:*16.03.2025\*
 - \**Current Role/Position:*Student\*
 - \**Field of Interest:*Software Development\*
 
@@ -82,7 +82,7 @@ By completing this reflection, you will gain a clearer understanding of your car
    - Outlining my long-term career aspirations:
      Fully competent Software developer
    - Describing how these align with my interests and skills:
-     I am studying coding as I text and that proves how they aligned I am
+     I am studying coding currently and that proves how they aligned I am
 
 ### Part 4: Action Plan
 
@@ -93,12 +93,12 @@ By completing this reflection, you will gain a clearer understanding of your car
      Research
      Prioritization
      Innovation
-     Teams mqnagent
+     Dedication
    - Resources or support required:
      - Supprot from my caoch
-     - Digital platphomos
+     - Digital platforms
        Networking
-       Coaching
+       Coaching others
 
 2. **Preparation for Long-term Goals**:
 
@@ -112,9 +112,9 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Anticipated Challenges**:
 
    - Identifing potential obstacles or challenges in reaching my goals:
-     Sor far I do not see any because I am till warming to SFD.
+     Sor far I do not see any because I am still learning the foundations software development.
    - Which strategies should I Consider to overcome these challenges:
-     Sor far I do not see any because I am till warming to SFD.
+     Sor far I do not see any because I am still learning the foundations software development.
 
 2. **Opportunities for Growth**:
 
